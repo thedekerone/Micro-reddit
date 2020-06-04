@@ -1,6 +1,6 @@
 # Micro Reddit
 
-Basic reddit clone with post, comment and user functionality. We are using the basic functionality of models to create the post, user and comments databases, and using assosiation between the different databases.
+Basic reddit clone with post, comment and user functionality. We are using the basic functionality of models to create the post, user and comments databases, and using association between the different databases.
 
 
 ## Built With
